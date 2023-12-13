@@ -3,6 +3,15 @@
 
 NBA Player Salary Prediction Web-App
 
+## Dataset
+
+Dataset used is "NBA 2k20 player dataset" from kaggle
+
+link: https://www.kaggle.com/datasets/isaienkov/nba2k20-player-dataset/
+## Documentation
+
+[Kaggle Notebook](https://www.kaggle.com/prateek219/nba-nb/edit)
+
 ## Installation
 
 Clone this repository 
