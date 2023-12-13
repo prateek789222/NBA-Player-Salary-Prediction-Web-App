@@ -115,6 +115,5 @@ st.header('Player Data')
 st.write(user_data)
 
 salary = model.predict(user_data)
-st.subheader('Player Predicted Salary')
+st.subheader('Predicted Player Salary')
 st.subheader('$'+str(np.round(salary[0], 2)))
-# st.subheader('$'+str(salary))
